@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|c:\\users\\micheal\\source\\repos\\crud\\crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|c:\\users\\micheal\\source\\repos\\crud\\crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|c:\\users\\micheal\\source\\repos\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|c:\\users\\micheal\\source\\repos\\crud\\crud\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD9D5CD-1C5C-4175-92B5-1399CF07DED5}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:31:54.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Data\\Product.cs",
+              "RelativeDocumentMoniker": "CRUD\\Data\\Product.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Data\\Product.cs",
+              "RelativeToolTip": "CRUD\\Data\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:32:09.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "CRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:32:02.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\MICHEAL\\source\\repos\\CRUD\\CRUD\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwDoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T12:31:56.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
